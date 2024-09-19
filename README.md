@@ -19,12 +19,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Macedo2218/Macedo2218/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <h3 align="left">Techs</h3>
 
 ###
