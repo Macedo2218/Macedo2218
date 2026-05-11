@@ -16,14 +16,14 @@
 ## 🚀 Sobre mim
 
 - 🎓 Estudando **Engenharia de Software**
-- - 🌱 Atualmente aprendendo **HTML, CSS, Python e JavaScript**
-  - - 🔭 Trabalhando em projetos de **Desenvolvimento Web**
-    - - 💡 Sempre em busca de novos desafios e aprendizados
-      - - 🎯 Objetivo: me tornar um desenvolvedor Full-Stack
+- 🌱 Aprendendo **HTML, CSS, Python e JavaScript**
+-  🔭  Trabalhando em projetos de **Desenvolvimento Web**
+- 💡 Sempre em busca de novos desafios
+- 🎯 Objetivo: me tornar um desenvolvedor Full-Stack
        
         - ---
 
-        ## 🛠️ Tecnologias & Ferramentas
+        ## 🛠️ Tecnologias e Ferramentas
 
         <div align="center">
 
