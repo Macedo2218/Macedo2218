@@ -11,19 +11,19 @@
 
 </div>
 
----
+<br>
 
 ## 🚀 Sobre mim
 
 - 🎓 Estudando **Engenharia de Software**
 - 🌱 Aprendendo **HTML, CSS, Python e JavaScript**
--  🔭  Trabalhando em projetos de **Desenvolvimento Web**
-- 💡 Sempre em busca de novos desafios
+- 🔭 Trabalhando em projetos de **Desenvolvimento Web**
+-     💡 Sempre em busca de novos desafios
 - 🎯 Objetivo: me tornar um desenvolvedor Full-Stack
        
-        - ---
+          <br>
 
-        ## 🛠️ Tecnologias e Ferramentas
+  ## 🛠️ Tecnologias e Ferramentas
 
         <div align="center">
 
@@ -37,7 +37,7 @@
 
         </div>
 
-        ---
+        <br>
 
         ## 📊 Estatísticas do GitHub
 
@@ -54,7 +54,7 @@
 
         </div>
 
-        ---
+        <br>
 
         ## 📌 Projetos em Destaque
 
@@ -65,7 +65,7 @@
 
         </div>
 
-        ---
+        <br>
 
         ## 🌐 Redes Sociais
 
@@ -77,7 +77,7 @@
 
         </div>
 
-        ---
+        <br>
 
         <div align="center">
 
