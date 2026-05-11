@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou Macedo
 
-### 🎓 Estudante de Engenharia de Software | 💻 Desenvolvedor Front-End em formação
+### 🎓 Estudante de Engenharia de Software 
 
 <br>
 
@@ -19,7 +19,6 @@
 - 🌱 Aprendendo **HTML, CSS, Python e JavaScript**
 - 🔭 Trabalhando em projetos de **Desenvolvimento Web**
 - 💡 Sempre em busca de novos desafios
-- 🎯 Objetivo: me tornar um desenvolvedor Full-Stack
 
 <br>
 
