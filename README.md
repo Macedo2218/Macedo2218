@@ -1,51 +1,86 @@
-<br clear="both">
-
-<h1 align="left">About me</h1>
-
-###
-
-<br clear="both">
-
-<h3 align="left">- Studying software engineering.</h3>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Macedo2218&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Macedo2218&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=true" height="150" alt="languages graph"  />
+
+# 👋 Olá! Eu sou Macedo
+
+### 🎓 Estudante de Engenharia de Software | 💻 Desenvolvedor Front-End em formação
+
+<br>
+
+[![Visitors](https://komarev.com/ghpvc/?username=Macedo2218&label=Visitantes&color=0e75b6&style=flat)](https://github.com/Macedo2218)
+[![GitHub followers](https://img.shields.io/github/followers/Macedo2218?label=Seguidores&style=social)](https://github.com/Macedo2218)
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🚀 Sobre mim
 
-<h3 align="left">Techs</h3>
+- 🎓 Estudando **Engenharia de Software**
+- - 🌱 Atualmente aprendendo **HTML, CSS, Python e JavaScript**
+  - - 🔭 Trabalhando em projetos de **Desenvolvimento Web**
+    - - 💡 Sempre em busca de novos desafios e aprendizados
+      - - 🎯 Objetivo: me tornar um desenvolvedor Full-Stack
+       
+        - ---
 
-###
+        ## 🛠️ Tecnologias & Ferramentas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+        <div align="center">
 
-###
+        ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+        ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+        ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+        ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+        ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+        ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+        ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br clear="both">
+        </div>
 
-<h3 align="left">Social media</h3>
+        ---
 
-###
+        ## 📊 Estatísticas do GitHub
 
-<div align="left">
-  <a href="https://www.instagram.com/pedro.macedo2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+        <div align="center">
 
-###
+        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Macedo2218&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macedo2218&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+        </div>
+
+        <div align="center">
+
+        [![GitHub Streak](https://streak-stats.demolab.com?user=Macedo2218&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+        </div>
+
+        ---
+
+        ## 📌 Projetos em Destaque
+
+        <div align="center">
+
+        [![DesenvolvimentoWeb](https://github-readme-stats.vercel.app/api/pin/?username=Macedo2218&repo=DesenvolvimentoWeb&theme=tokyonight&hide_border=true)](https://github.com/Macedo2218/DesenvolvimentoWeb)
+        [![Projeto Front-End](https://github-readme-stats.vercel.app/api/pin/?username=Macedo2218&repo=Projeto-Front-End&theme=tokyonight&hide_border=true)](https://github.com/Macedo2218/Projeto-Front-End)
+
+        </div>
+
+        ---
+
+        ## 🌐 Redes Sociais
+
+        <div align="center">
+
+        [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/macedo2218)
+        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/macedo2218)
+        [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Macedo2218)
+
+        </div>
+
+        ---
+
+        <div align="center">
+
+        ⭐ **Se gostou dos meus projetos, deixa uma estrela!** ⭐
+
+        </div>
